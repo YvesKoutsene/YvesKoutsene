@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Salut, moi c'est Jean-Yves KOUTSENE
 
-<!--
-**YvesKoutsene/YvesKoutsene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Data Analyst en devenir | Alternance 2026 | EILCO
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 À propos
+
+Étudiant en cycle ingénieur à l'EILCO, passionné par l'analyse et la visualisation de données.  
+Je transforme des données brutes en insights exploitables avec **SQL**, **Python** et **Power BI**.
+
+🔍 Actuellement en recherche d'une **alternance de 24 mois en Data Analyst** à partir de septembre 2026.
+
+---
+
+## 🛠️ Compétences techniques
+
+| Catégorie | Technologies |
+|-----------|-------------|
+| **Langages** | SQL, Python, PHP |
+| **Data** | Pandas, NumPy, Matplotlib, Seaborn |
+| **Visualisation** | Power BI, Excel |
+| **Bases de données** | PostgreSQL, MySQL, SQL Server |
+| **Outils** | Git, GitHub, Linux, Figma |
+
+---
+
+## 📌 Projets en vedette
+
+🔹 **[Analyse qualité de l'air](#)** – Nettoyage et analyse exploratoire d'un dataset OpenData (Python)  
+🔹 **[Dashboard logistique Power BI](#)** – KPIs dynamiques et recommandations opérationnelles  
+🔹 *[Autre projet si existant]*  
+
+---
+
+## 📫 Me contacter
+
+- LinkedIn : [linkedin.com/in/jean-yves-koutsene](https://linkedin.com/in/jean-yves-koutsene)
+- Email : jkoutsene@icloud.com
