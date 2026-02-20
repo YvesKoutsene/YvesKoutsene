@@ -8,7 +8,7 @@
 
 Étudiant en cycle ingénieur à l'EILCO, passionné par l'analyse et la visualisation de données.  
 Je transforme des données brutes en insights exploitables avec **SQL**, **Python** et **Power BI**.
-Actuellement en recherche d'une **alternance de 24 mois en Data Analyst** à partir de septembre 2026.
+Actuellement en recherche d'une **alternance de 24 mois en Data Scientist** à partir de septembre 2026.
 
 ---
 
