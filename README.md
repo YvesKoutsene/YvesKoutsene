@@ -1,6 +1,6 @@
 # Salut, moi c'est Jean-Yves KOUTSENE
 
-### Data Analyst en devenir | Alternance 2026 | EILCO
+### Data Scientist en devenir | Alternance 2026 | EILCO
 
 ---
 
