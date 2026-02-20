@@ -26,9 +26,8 @@ Actuellement en recherche d'une **alternance de 24 mois en Data Analyst** à par
 
 ## Projets en vedette
 
-**[Analyse qualité de l'air](Analyse-strategique-de-la-qualite-de-l-air](https://github.com/YvesKoutsene/Analyse-de-performance-logistique
-))** – Nettoyage et analyse exploratoire d'un dataset OpenData (Python)  
-**[Dashboard logistique Power BI](#Analyse-de-performance-logistique)** – KPIs dynamiques et recommandations opérationnelles   
+**[Analyse qualité de l'air]([Analyse-de-performance-logistiqueAnalyse-de-performance-logistique](https://github.com/YvesKoutsene/Analyse-de-performance-logistique))** – Nettoyage et analyse exploratoire d'un dataset OpenData (Python)  
+**[Dashboard logistique Power BI](Analyse-de-performance-logistique)** – KPIs dynamiques et recommandations opérationnelles   
 
 ---
 
