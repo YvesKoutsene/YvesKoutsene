@@ -26,8 +26,8 @@ Actuellement en recherche d'une **alternance de 24 mois en Data Analyst** à par
 
 ## Projets en vedette
 
-**[Analyse qualité de l'air](Analyse-strategique-de-la-qualite-de-l-air.git)** – Nettoyage et analyse exploratoire d'un dataset OpenData (Python)  
-**[Dashboard logistique Power BI](Analyse-de-performance-logistique.git)** – KPIs dynamiques et recommandations opérationnelles   
+**[Analyse qualité de l'air](Analyse-strategique-de-la-qualite-de-l-air)** – Nettoyage et analyse exploratoire d'un dataset OpenData (Python)  
+**[Dashboard logistique Power BI](Analyse-de-performance-logistique)** – KPIs dynamiques et recommandations opérationnelles   
 
 ---
 
