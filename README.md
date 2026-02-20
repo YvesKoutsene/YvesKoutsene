@@ -1,23 +1,22 @@
-# 👋 Salut, moi c'est Jean-Yves KOUTSENE
+# Salut, moi c'est Jean-Yves KOUTSENE
 
-### 📊 Data Analyst en devenir | Alternance 2026 | EILCO
+### Data Analyst en devenir | Alternance 2026 | EILCO
 
 ---
 
-## 🧠 À propos
+## À propos
 
 Étudiant en cycle ingénieur à l'EILCO, passionné par l'analyse et la visualisation de données.  
 Je transforme des données brutes en insights exploitables avec **SQL**, **Python** et **Power BI**.
-
-🔍 Actuellement en recherche d'une **alternance de 24 mois en Data Analyst** à partir de septembre 2026.
+Actuellement en recherche d'une **alternance de 24 mois en Data Analyst** à partir de septembre 2026.
 
 ---
 
-## 🛠️ Compétences techniques
+## Compétences techniques
 
 | Catégorie | Technologies |
 |-----------|-------------|
-| **Langages** | SQL, Python, PHP |
+| **Langages** | SQL, Python, PHP , Java, Flutter, Conception d’API REST (Laravel, Spring Boot)|
 | **Data** | Pandas, NumPy, Matplotlib, Seaborn |
 | **Visualisation** | Power BI, Excel |
 | **Bases de données** | PostgreSQL, MySQL, SQL Server |
@@ -25,15 +24,14 @@ Je transforme des données brutes en insights exploitables avec **SQL**, **Pytho
 
 ---
 
-## 📌 Projets en vedette
+## Projets en vedette
 
-🔹 **[Analyse qualité de l'air](#)** – Nettoyage et analyse exploratoire d'un dataset OpenData (Python)  
-🔹 **[Dashboard logistique Power BI](#)** – KPIs dynamiques et recommandations opérationnelles  
-🔹 *[Autre projet si existant]*  
+**[Analyse qualité de l'air](#)** – Nettoyage et analyse exploratoire d'un dataset OpenData (Python)  
+**[Dashboard logistique Power BI](#)** – KPIs dynamiques et recommandations opérationnelles   
 
 ---
 
-## 📫 Me contacter
+## Me contacter
 
 - LinkedIn : [linkedin.com/in/jean-yves-koutsene](https://linkedin.com/in/jean-yves-koutsene)
 - Email : jkoutsene@icloud.com
