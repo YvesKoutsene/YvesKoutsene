@@ -1,65 +1,101 @@
-👋 Hi, I’m Jean-Yves Koutsene
+<h1 align="center">Jean-Yves Lorenzi KOUTSENE</h1>
 
-🎓 Engineering student in Computer Science at EILCO (France)
-📊 Focused on Data Analysis, SQL, Python and Business Intelligence
-💡 Interested in transforming raw data into actionable insights
+<p align="center">
+Engineering Student in Computer Science – EILCO (France) <br>
+Data Analysis • SQL • Python • Power BI <br>
+Seeking a 24-month apprenticeship starting September 2026
+</p>
 
-🔎 About Me
+---
 
-I specialize in:
+## About Me
 
-SQL (advanced queries, aggregations, optimization)
+I am a Computer Science engineering student specializing in **Data Analysis and Business Intelligence**.
 
-Python for data analysis (Pandas, NumPy, data cleaning)
+My goal is to transform raw data into **clear, structured and actionable insights** that support decision-making.
 
-Data visualization (Power BI, Matplotlib, Seaborn)
+I have experience working with:
 
-Relational database modeling (PostgreSQL, MySQL)
+- Advanced SQL (joins, aggregations, CTE, query optimization)
+- Python for data analysis (Pandas, NumPy, data cleaning)
+- Data visualization (Power BI, Matplotlib, Seaborn)
+- Relational database modeling (PostgreSQL, MySQL)
+- KPI definition & performance analysis
+- REST API development for structured data collection
 
-API development and data structuring
+---
 
-I am currently seeking a 24-month apprenticeship starting in September 2026 in:
+## Technical Stack
 
-Data Analyst
+### Data & Analytics
+- SQL  
+- Python (Pandas, NumPy)  
+- Power BI  
+- Data Cleaning  
+- Exploratory Data Analysis (EDA)  
+- KPI Design  
 
-Business Intelligence
+### Databases
+- PostgreSQL  
+- MySQL  
+- SQL Server  
 
-Junior Data Engineer
+### Development (Data-Oriented)
+- REST API Design  
+- Laravel  
+- Spring Boot  
 
-🚀 Featured Projects
-📊 Air Quality Data Analysis
+### Tools
+- Git / GitHub  
+- Linux  
+- UML  
 
-Exploratory data analysis on French Open Data.
+---
 
-Data cleaning and transformation
+## 📂 Featured Projects
 
-Trend analysis and correlation study
+### Air Quality Data Analysis – France Open Data
 
-Decision-oriented KPI creation
+- Cleaning and transforming multi-year environmental dataset  
+- Seasonal trend and regional comparison analysis  
+- Correlation study between pollutants  
+- Creation of decision-oriented KPIs  
+- Data-driven recommendations based on analytical findings  
 
-📦 Logistics Performance Dashboard
+---
 
-Power BI dashboard based on PostgreSQL data.
+### Logistics Performance Dashboard – Power BI
 
-SQL analytical queries
+- SQL analytical queries on PostgreSQL database  
+- KPI monitoring (delivery delays, regional performance)  
+- Interactive dashboard with DAX measures  
+- Identification of operational improvement opportunities  
+- Business-oriented performance insights  
 
-KPI monitoring (delivery delays, regional performance)
+---
 
-Operational optimization insights
+## Career Objective
 
-🛠 Tech Stack
+I am currently looking for an apprenticeship position as:
 
-SQL
+- **Data Analyst**
+- **Business Intelligence Analyst**
+- **Junior Data Engineer**
 
-Python (Pandas, NumPy)
+in a data-driven organization where I can contribute to structured analysis, reporting and performance optimization.
 
-Power BI
+---
 
-PostgreSQL
+## Contact
 
-Git
+LinkedIn:  
+https://linkedin.com/in/jean-yves-koutsene  
 
-📫 Contact
+Email:  
+jkoutsene@icloud.com  
 
-LinkedIn: linkedin.com/in/jean-yves-koutsene
-Email: jkoutsene@icloud.com
+---
+
+<p align="center">
+💡 Turning data into insight. Insight into impact.
+</p>
