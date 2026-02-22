@@ -99,5 +99,5 @@ jkoutsene@icloud.com
 ---
 
 <p align="center">
-💡 Turning data into insight. Insight into impact.
+  Turning data into insight. Insight into impact.
 </p>
