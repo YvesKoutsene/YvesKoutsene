@@ -1,37 +1,65 @@
-# Salut, moi c'est Jean-Yves KOUTSENE
+👋 Hi, I’m Jean-Yves Koutsene
 
-### Data Scientist en devenir | Alternance 2026 | EILCO
+🎓 Engineering student in Computer Science at EILCO (France)
+📊 Focused on Data Analysis, SQL, Python and Business Intelligence
+💡 Interested in transforming raw data into actionable insights
 
----
+🔎 About Me
 
-## À propos
+I specialize in:
 
-Étudiant en cycle ingénieur à l'EILCO, passionné par l'analyse et la visualisation de données.  
-Je transforme des données brutes en insights exploitables avec **SQL**, **Python** et **Power BI**.
-Actuellement en recherche d'une **alternance de 24 mois en Data Scientist** à partir de septembre 2026.
+SQL (advanced queries, aggregations, optimization)
 
----
+Python for data analysis (Pandas, NumPy, data cleaning)
 
-## Compétences techniques
+Data visualization (Power BI, Matplotlib, Seaborn)
 
-| Catégorie | Technologies |
-|-----------|-------------|
-| **Langages** | SQL, Python, PHP , Java, Flutter, Conception d’API REST (Laravel, Spring Boot)|
-| **Data** | Pandas, NumPy, Matplotlib, Seaborn |
-| **Visualisation** | Power BI, Excel |
-| **Bases de données** | PostgreSQL, MySQL, SQL Server |
-| **Outils** | Git, GitHub, Linux, Figma |
+Relational database modeling (PostgreSQL, MySQL)
 
----
+API development and data structuring
 
-## Projets en vedette
+I am currently seeking a 24-month apprenticeship starting in September 2026 in:
 
-**[Analyse qualité de l'air](https://github.com/YvesKoutsene/Analyse-de-performance-logistique)** – Nettoyage et analyse exploratoire d'un dataset OpenData (Python)  
-**[Dashboard logistique Power BI](https://github.com/YvesKoutsene/Analyse-de-performance-logistique)** – KPIs dynamiques et recommandations opérationnelles   
+Data Analyst
 
----
+Business Intelligence
 
-## Me contacter
+Junior Data Engineer
 
-- LinkedIn : [linkedin.com/in/jean-yves-koutsene](https://linkedin.com/in/jean-yves-koutsene)
-- Email : jkoutsene@icloud.com
+🚀 Featured Projects
+📊 Air Quality Data Analysis
+
+Exploratory data analysis on French Open Data.
+
+Data cleaning and transformation
+
+Trend analysis and correlation study
+
+Decision-oriented KPI creation
+
+📦 Logistics Performance Dashboard
+
+Power BI dashboard based on PostgreSQL data.
+
+SQL analytical queries
+
+KPI monitoring (delivery delays, regional performance)
+
+Operational optimization insights
+
+🛠 Tech Stack
+
+SQL
+
+Python (Pandas, NumPy)
+
+Power BI
+
+PostgreSQL
+
+Git
+
+📫 Contact
+
+LinkedIn: linkedin.com/in/jean-yves-koutsene
+Email: jkoutsene@icloud.com
