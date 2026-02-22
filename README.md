@@ -52,7 +52,7 @@ I have experience working with:
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 ### Air Quality Data Analysis – France Open Data
 
@@ -61,7 +61,8 @@ I have experience working with:
 - Correlation study between pollutants  
 - Creation of decision-oriented KPIs  
 - Data-driven recommendations based on analytical findings  
-
+**[Air Quality Data Analysis – France Open Data](https://github.com/YvesKoutsene/Analyse-de-performance-logistique)** 
+  
 ---
 
 ### Logistics Performance Dashboard – Power BI
@@ -71,7 +72,8 @@ I have experience working with:
 - Interactive dashboard with DAX measures  
 - Identification of operational improvement opportunities  
 - Business-oriented performance insights  
-
+**[Logistics Performance Dashboard – Power BI](https://github.com/YvesKoutsene/Analyse-de-performance-logistique)** 
+  
 ---
 
 ## Career Objective
