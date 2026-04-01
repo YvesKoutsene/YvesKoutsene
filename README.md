@@ -28,6 +28,7 @@ I have experience working with:
 ## Technical Stack
 
 ### Data & Analytics
+- Excel
 - SQL  
 - Python (Pandas, NumPy)  
 - Power BI  
