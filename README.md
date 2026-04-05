@@ -1,104 +1,66 @@
-<h1 align="center">Jean-Yves Lorenzi KOUTSENE</h1>
+# Salut, moi c'est Jean-Yves
 
-<p align="center">
-Engineering Student in Computer Science – EILCO (France) <br>
-Data Analysis • SQL • Python • Power BI <br>
-Seeking a 24-month apprenticeship starting September 2026
-</p>
+Je suis étudiant en cycle ingénieur à l'EILCO (Calais), et je me spécialise dans **l'analyse de données**.
+
+Ce que je cherche : une alternance de 24 mois (rythme 2 semaines entreprise / 2 semaines école) à partir de septembre 2026, sur un poste de Data Analyst, BI Analyst, ou Junior Data Engineer.
 
 ---
 
-## About Me
+## À propos de moi
 
-I am a Computer Science engineering student specializing in **Data Analysis and Business Intelligence**.
+J'aime les données. Pas juste les regarder, mais les **comprendre, les nettoyer, les structurer**, et en tirer quelque chose d'**utile** – des indicateurs, des tendances, des décisions.
 
-My goal is to transform raw data into **clear, structured and actionable insights** that support decision-making.
+Pendant mes stages, j'ai travaillé sur :
+- des bases PostgreSQL (modélisation, optimisation de requêtes)
+- des API pour collecter des données
+- des tableaux de bord Power BI
+- du nettoyage de données avec Python
 
-I have experience working with:
-
-- Advanced SQL (joins, aggregations, CTE, query optimization)
-- Python for data analysis (Pandas, NumPy, data cleaning)
-- Data visualization (Power BI, Matplotlib, Seaborn)
-- Relational database modeling (PostgreSQL, MySQL)
-- KPI definition & performance analysis
-- REST API development for structured data collection
+Ce que j'ai appris : une donnée brute ne sert à rien si elle n'est pas bien comprise et bien présentée.
 
 ---
 
-## Technical Stack
+## Ce que j'utilise au quotidien
 
-### Data & Analytics
+**Langages & outils data**
+- SQL (jointures, CTE, optimisation)
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Power BI (dashboards, DAX)
 - Excel
-- SQL  
-- Python (Pandas, NumPy)  
-- Power BI  
-- Data Cleaning  
-- Exploratory Data Analysis (EDA)  
-- KPI Design  
 
-### Databases
-- PostgreSQL  
-- MySQL  
-- SQL Server  
+**Bases de données**
+- PostgreSQL, MySQL, SQL Server
 
-### Development (Data-Oriented)
-- REST API Design  
-- Laravel  
-- Spring Boot  
-
-### Tools
-- Git / GitHub  
-- Linux  
-- UML  
+**Autres (pour collecter ou exposer des données)**
+- API REST (Laravel, Spring Boot)
+- Git / GitHub
+- Linux
 
 ---
 
-## Featured Projects
+## Mes projets
 
-### Air Quality Data Analysis – France Open Data
+### Analyse de la qualité de l'air (OpenData France)
 
-- Cleaning and transforming multi-year environmental dataset  
-- Seasonal trend and regional comparison analysis  
-- Correlation study between pollutants  
-- Creation of decision-oriented KPIs  
-- Data-driven recommendations based on analytical findings  
-**[Air Quality Data Analysis – France Open Data](https://github.com/YvesKoutsene/Analyse-de-performance-logistique)** 
-  
----
+J'ai pris un jeu de données public multi-annuel, je l'ai nettoyé, transformé, et j'en ai sorti des indicateurs et des tendances. L'objectif : comprendre l'évolution de la pollution et voir les différences entre régions.
 
-### Logistics Performance Dashboard – Power BI
+[Voir le projet](lien)
 
-- SQL analytical queries on PostgreSQL database  
-- KPI monitoring (delivery delays, regional performance)  
-- Interactive dashboard with DAX measures  
-- Identification of operational improvement opportunities  
-- Business-oriented performance insights  
-**[Logistics Performance Dashboard – Power BI](https://github.com/YvesKoutsene/Analyse-de-performance-logistique)** 
-  
----
+### Dashboard logistique – Power BI
 
-## Career Objective
+À partir d'une base PostgreSQL, j'ai écrit des requêtes SQL pour extraire des indicateurs (délais, retards, performance par région), puis j'ai construit un dashboard interactif avec Power BI. Le but : identifier ce qui freine la performance et proposer des améliorations.
 
-I am currently looking for an apprenticeship position as:
-
-- **Data Analyst**
-- **Business Intelligence Analyst**
-- **Junior Data Engineer**
-
-in a data-driven organization where I can contribute to structured analysis, reporting and performance optimization.
+[Voir le projet](lien)
 
 ---
 
-## Contact
+## Me contacter
 
-LinkedIn:  
-https://linkedin.com/in/jean-yves-koutsene  
-
-Email:  
-jkoutsene@icloud.com  
+- LinkedIn : [linkedin.com/in/jean-yves-koutsene](https://linkedin.com/in/jean-yves-koutsene)
+- Email : jkoutsene@icloud.com
 
 ---
 
 <p align="center">
-  Turning data into insight. Insight into impact.
+  Des données brutes aux décisions. C'est ce qui me motive.
 </p>
