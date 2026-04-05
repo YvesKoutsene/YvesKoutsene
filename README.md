@@ -40,14 +40,14 @@ Ce que j'ai appris : une donnée brute ne sert à rien si elle n'est pas bien co
 
 ## Mes projets
 
-### Analyse de la qualité de l'air (OpenData France)
+### Analyse de la qualité de l'air (OpenData France) (2026 - en cours)
 
 J'ai pris un jeu de données public multi-annuel, je l'ai nettoyé, transformé, et j'en ai sorti des indicateurs et des tendances. L'objectif : comprendre l'évolution de la pollution et voir les différences entre régions.
 
 
 [Voir le projet](https://github.com/YvesKoutsene/Analyse-de-performance-logistique)
 
-### Dashboard logistique – Power BI
+### Dashboard logistique – Power BI (2025)
 
 À partir d'une base PostgreSQL, j'ai écrit des requêtes SQL pour extraire des indicateurs (délais, retards, performance par région), puis j'ai construit un dashboard interactif avec Power BI. Le but : identifier ce qui freine la performance et proposer des améliorations.
 
