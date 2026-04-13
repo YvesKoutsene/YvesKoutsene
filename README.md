@@ -44,7 +44,7 @@ Ce que j'ai appris : une donnée brute ne sert à rien si elle n'est pas bien co
 
 J'ai pris un jeu de données public multi-annuel, je l'ai nettoyé, transformé, et j'en ai sorti des indicateurs et des tendances. L'objectif : comprendre l'évolution de la pollution et voir les différences entre régions.
 
-[Voir le projet](https://github.com/YvesKoutsene/Analyse-strategique-de-la-qualite-de-l-air).
+[Voir le projet](https://github.com/YvesKoutsene/Analyse-strategique-de-la-qualite-de-l-air)
 
 ### Analyse des demandes de prêts immobiliers avec Power BI
 
