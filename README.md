@@ -46,13 +46,13 @@ J'ai pris un jeu de données public multi-annuel, je l'ai nettoyé, transformé,
 
 [Voir le projet](https://github.com/YvesKoutsene/Analyse-strategique-de-la-qualite-de-l-air).
 
-### Dashboard logistique – Power BI (2025)
+### Analyse des demandes de prêts immobiliers avec Power BI
 
-À partir d'une base PostgreSQL, j'ai écrit des requêtes SQL pour extraire des indicateurs (délais, retards, performance par région), puis j'ai construit un dashboard interactif avec Power BI. Le but : identifier ce qui freine la performance et proposer des améliorations.
+À partir d'un fichier Excel brut, j'ai nettoyé les données et construit un tableau de bord interactif. Indicateurs : taux d'acceptation, volumes, performance par agence, plus un score emprunteur automatique (DAX).
 
-[Voir le projet](https://github.com/YvesKoutsene/Analyse-de-performance-logistique)
+[Voir le projet](https://github.com/YvesKoutsene/Dashboard-decisionnel-Analyse-des-pret-immobiliers.git)
 
-### Dashboard logistique – Power BI (2025)
+### Dashboard logistique – Power BI
 
 À partir d'une base PostgreSQL, j'ai écrit des requêtes SQL pour extraire des indicateurs (délais, retards, performance par région), puis j'ai construit un dashboard interactif avec Power BI. Le but : identifier ce qui freine la performance et proposer des améliorations.
 
