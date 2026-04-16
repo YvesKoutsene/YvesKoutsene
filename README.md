@@ -40,7 +40,7 @@ Ce que j'ai appris : une donnée brute ne sert à rien si elle n'est pas bien co
 
 ## Mes projets
 
-### Analyse de la qualité de l'air (OpenData France) (2026 - en cours)
+### Analyse de la qualité de l'air (OpenData France)
 
 J'ai pris un jeu de données public multi-annuel, je l'ai nettoyé, transformé, et j'en ai sorti des indicateurs et des tendances. L'objectif : comprendre l'évolution de la pollution et voir les différences entre régions.
 
