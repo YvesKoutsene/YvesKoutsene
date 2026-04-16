@@ -2,7 +2,7 @@
 
 Je suis étudiant en cycle ingénieur à l'EILCO (Calais), et je me spécialise dans **l'analyse de données**.
 
-Ce que je cherche : une alternance de 24 mois (rythme 2 semaines entreprise / 2 semaines école) à partir de septembre 2026, sur un poste de Data Analyst, BI Analyst, ou Junior Data Engineer.
+Ce que je cherche : une alternance de 24 mois (rythme 2 semaines entreprise / 2 semaines école) à partir de septembre 2026, sur un poste de Data Analyst, BI Analyst, Data Scientist, ou Junior Data Engineer.
 
 ---
 
