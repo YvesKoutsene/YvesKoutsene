@@ -52,12 +52,6 @@ J'ai pris un jeu de données public multi-annuel, je l'ai nettoyé, transformé,
 
 [Voir le projet](https://github.com/YvesKoutsene/Dashboard-decisionnel-Analyse-des-pret-immobiliers.git)
 
-### Dashboard logistique – Power BI
-
-À partir d'une base PostgreSQL, j'ai écrit des requêtes SQL pour extraire des indicateurs (délais, retards, performance par région), puis j'ai construit un dashboard interactif avec Power BI. Le but : identifier ce qui freine la performance et proposer des améliorations.
-
-[Voir le projet](https://github.com/YvesKoutsene/Analyse-de-performance-logistique)
-
 ---
 
 ## Me contacter
