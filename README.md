@@ -2,7 +2,7 @@
 
 Je suis étudiant en cycle ingénieur à l'EILCO (Calais), et je me spécialise dans **l'analyse de données**.
 
-Ce que je cherche : une alternance de 24 mois (rythme 2 semaines entreprise / 2 semaines école) à partir de septembre 2026, sur un poste de Data Analyst, BI Analyst, Data Scientist, ou Junior Data Engineer.
+Ce que je cherche : une alternance de 24 mois (rythme 2 semaines entreprise / 2 semaines école) à partir de septembre 2026, sur un poste de Data Analyst, BI Analyst, Data Scientist, ou Junior Data Engineer. Je suis également ouvert aux postes de Dev 
 
 ---
 
@@ -29,10 +29,11 @@ Ce que j'ai appris : une donnée brute ne sert à rien si elle n'est pas bien co
 - Excel (Tableaux croisés dynamiques, VBA)
 
 **Bases de données**
-- PostgreSQL, MySQL, SQL Server
+- PostgreSQL, MySQL, SQL Server, Oracle
 
 **Autres (pour collecter ou exposer des données)**
-- API REST (Laravel, Spring Boot)
+- API REST (Laravel, Spring Boot, NodeJs, Flask)
+- Frontend (React, Flutter) 
 - Git / GitHub
 - Linux
 
