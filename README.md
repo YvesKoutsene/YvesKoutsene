@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Salut, moi c'est Jean-Yves Koutsene</h1>
-  <h3>Data & Software Engineering Student 🚀 | Major de Promotion (Bac+3) | EILCO</h3>
+  <h3>Data & Software Engineering Student | Major de Promotion (Bac+3) | EILCO</h3>
   <p><i>"J'aime que les données racontent une histoire, mais j'aime encore plus construire et déployer l'infrastructure qui les fait parler."</i></p>
 
   <a href="https://linkedin.com/in/jean-yves-koutsene">
