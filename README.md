@@ -23,7 +23,7 @@ Fort de **13 mois d'expérience en stage**, je ne me contente pas de coder : je 
 
 ---
 
-## Ma Stack Technique (Le couteau suisse)
+## Ma Stack Technique
 
 Ici, pas de silos. J'utilise le développement pour alimenter la donnée, la donnée pour guider le développement, et le DevOps pour que tout tourne parfaitement.
 
