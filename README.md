@@ -55,22 +55,29 @@ Ici, pas de silos. J'utilise le développement pour alimenter la donnée, la don
 </p>
 
 ---
-
 ## Projets à la Une & Réalisations
 
-Voici une sélection de mes travaux, prouvant ma capacité à transformer des besoins métiers en architectures solides :
+Voici une sélection de mes travaux, prouvant ma capacité à transformer des besoins métiers complexes en architectures logicielles et data robustes :
 
-> **[1] [Écosystème EventTicket](https://github.com/YvesKoutsene/EventTicket)**
+> **[1] [Moteur de Facturation & Reporting Financier (CIB)](https://github.com/YvesKoutsene/cdl-sight-deposit-billing-pipeline)**
+> *Data Engineering (DuckDB) / Python / CI-CD Mindset*
+> Développement d'un pipeline Big Data ultra-performant pour le calcul automatisé d'intérêts sur 6,3 millions de transactions bancaires. Sécurisation des données via des tests de non-régression automatisés et restitution sous Power BI.
+
+> **[2] [Écosystème EventTicket](https://github.com/YvesKoutsene/EventTicket)**
 > *Full-Stack / Mobile / Modélisation SQL*
 > Conception d'une architecture multi-plateforme pour la gestion de billetterie. Modélisation de la base de données relationnelle pour absorber une billetterie de masse sans conflits, et développement des interfaces CRUD.
 
-> **[2] [Analyse Stratégique de la qualité de l'air](https://github.com/YvesKoutsene/Analyse-strategique-de-la-qualite-de-l-air)**
-> *Data Cleaning & Analyse Python*
-> Traitement d'un jeu de données public multi-annuel complexe. Extraction d'indicateurs clés et de tendances pour comprendre l'évolution de la pollution par région.
+> **[3] [Datamart Marketing Multi-Pays (Risque & Crédit)](https://github.com/YvesKoutsene/pf-marketing-datamart)**
+> *Machine Learning / Data Architecture / Qualité des données*
+> Modélisation d'un Data Warehouse (schéma en étoile) et développement sous Python d'un moteur de segmentation client bidimensionnelle (Clustering). Intégration d'une Data Quality Scorecard automatisée.
 
-> **[3] [Dashboard Décisionnel : Prêts Immobiliers](https://github.com/YvesKoutsene/Dashboard-decisionnel-Analyse-des-pret-immobiliers.git)**
+> **[4] [Dashboard Décisionnel : Prêts Immobiliers](https://github.com/YvesKoutsene/Dashboard-decisionnel-Analyse-des-pret-immobiliers.git)**
 > *Business Intelligence (Power BI & DAX)*
-> Transformation d'un Excel brut en outil d'aide à la décision : modélisation, calcul de taux d'acceptation, suivi de performance par agence et création d'un score emprunteur automatique.
+> Transformation d'un Excel brut en outil d'aide à la décision : modélisation, calcul de taux d'acceptation, suivi de performance par agence et création d'un moteur de scoring emprunteur automatique.
+
+> **[5] [Analyse Stratégique de la qualité de l'air](https://github.com/YvesKoutsene/Analyse-strategique-de-la-qualite-de-l-air)**
+> *Data Cleaning & Analyse Python*
+> Traitement d'un jeu de données public multi-annuel complexe. Extraction d'indicateurs clés et de tendances pour comprendre l'évolution de la pollution par région via Matplotlib et Seaborn.
 
 ---
 
